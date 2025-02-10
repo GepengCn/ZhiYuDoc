@@ -1,0 +1,1 @@
+import{_ as t,c as l,o,ae as r}from"./chunks/framework.CTVYQtO4.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"TermOfUse.md","filePath":"TermOfUse.md"}'),a={name:"TermOfUse.md"};function s(i,e,_,p,n,c){return o(),l("div",null,e[0]||(e[0]=[r("",8)]))}const d=t(a,[["render",s]]);export{f as __pageData,d as default};
