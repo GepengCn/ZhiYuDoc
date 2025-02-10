@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/ZhiYuDoc/",
   title: "纸语",
   description: "A VitePress Site",
   themeConfig: {
